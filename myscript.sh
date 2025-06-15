@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Hi, I'm Zhameer."
 echo "Just testing Bash while I learn how this works."
 echo "-------------------------------------------"
